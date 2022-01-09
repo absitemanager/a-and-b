@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: We specialise in UK immigration matters
+image: /img/hope.jpg
+heading: We specialise in UK immigration matters
+subheading: Helping people come together
 mainpitch:
   title: Why Kaldi
   description: >

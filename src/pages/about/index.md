@@ -1,19 +1,18 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About Ali & Barrow Solicitors
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Ali & Barrow Solicitors is a specialist immigration law firm based in London. We believe in delivering sustainable value to our client’s, whilst operating with economy, efficiency and effectiveness across our full capability. We feel privileged to support many clients with their personal and business needs, guarding their interests and working alongside them as trusted advisors.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Our dedicated team aim to provide tailored, pragmatic and practical solutions to immigration matters  
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Our Values
+Our core values are to always work with integrity, tenacity whilst providing exceptional services to create strong and long-lasting bonds with our clients. We pride ourselves on the quality of our representation and that ‘go the extra mile’ culture.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+We live our values and look to work with people who share them. We are working hard to make our firm a place where people and clients want to come and stay, where everyone feels included, and where 'unique' is a word that is overused in relation to our culture.
+
+Our people reflect the world's diversity of individuals, opinions and approaches. The diversity of our people fuels our success, they are as intelligent, caring and driven as they are passionate.
+
+Hence, individuality and authenticity are celebrated here. We work in a fast-paced, dynamic and forward-thinking environment with talented professionals who share pride and enthusiasm for what they do.
